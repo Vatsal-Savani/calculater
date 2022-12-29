@@ -1,0 +1,46 @@
+h1{
+    font-family: 'Tangerine', serif;
+    font-size: 63px;
+    margin: 17px 0 0 0;
+}
+
+.container{
+    text-align: center;
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    font-size: 32px;
+    border: 4px solid black;
+    border-radius: 9px;
+    margin-top: 12px;
+    margin-bottom: 6px;
+}
+
+button{
+    font-size: 22px;
+    width: 100px;
+    height: 75px;
+    border-radius: 16px;
+    color: white;
+    background-color: rgb(0,0,0);
+}
+
+button:hover{
+    font-size: 26px;
+    background-color: rgb(251, 89, 151);
+    cursor :pointer;
+}
+
+.calculater{
+    margin-top: 15vh;
+    border: 2px solid black;
+    border-radius: 16px;
+    display: inline-block;
+    /* background-color: rgb(232, 107, 17); */
+    background-color: rgb(201 198 195);
+    /* background-color: black; */
+}
